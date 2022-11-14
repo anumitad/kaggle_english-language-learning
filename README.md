@@ -15,3 +15,4 @@ used a regression model that took the following inputs:
 - array of the syntactic dependency (dep in spacy) of each the words in the paragraph
 
 
+note: internet connection is disabled for submitted notebooks, so certain pre-processing features have been commented out of the inference process
